@@ -1,6 +1,6 @@
 {
   "name": "tempwallet-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helpers for single-use (temporary) EVM flows: ephemeral EOAs, Safe builders, Permit2 signature skeleton, sweep & gas estimates. No infra included.",
   "license": "MIT",
   "type": "module",
@@ -29,7 +29,18 @@
     "test": "vitest run --reporter=verbose",
     "prepublishOnly": "npm run build && npm run lint && npm test"
   },
-  "keywords": ["ephemeral wallet","temporary wallet","ethereum","evm","ethers","sweep","safe","permit2","checkout","one-time"],
+  "keywords": [
+    "ephemeral wallet",
+    "temporary wallet",
+    "ethereum",
+    "evm",
+    "ethers",
+    "sweep",
+    "safe",
+    "permit2",
+    "checkout",
+    "one-time"
+  ],
   "peerDependencies": {
     "ethers": "^6.13.0"
   },
