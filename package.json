@@ -1,5 +1,5 @@
 {
-  "name": "tempwallet-sdk",
+  "name": "@tempwallet/sdk",
   "version": "0.1.0",
   "description": "Helpers for single-use (temporary) EVM flows: ephemeral EOAs, Safe builders, Permit2 signature skeleton, sweep & gas estimates. No infra included.",
   "license": "MIT",
