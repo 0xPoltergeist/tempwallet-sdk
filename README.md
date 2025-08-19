@@ -6,9 +6,8 @@
 >
 > ⚡ **No servers. No custody. No contracts. Just pure client-side helpers.**
 
-[![npm version](https://badge.fury.io/js/%40tempwallet%2Fsdk.svg)](https://badge.fury.io/js/%40tempwallet%2Fsdk)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![CI](https://github.com/tempwallet/sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/tempwallet/sdk/actions/workflows/ci.yml)
+[![npm version](https://badge.fury.io/js/tempwallet-sdk.svg)](https://www.npmjs.com/package/tempwallet-sdk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
